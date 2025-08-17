@@ -11,9 +11,16 @@ Este projeto é uma recriação simplificada da interface do YouTube, desenvolvi
 
 * Layout adaptável, ajustando-se automaticamente para diferentes tamanhos de tela, incluindo dispositivos móveis, tablets e desktops.
 
+
+
 # 📱 Responsividade
 O site foi projetado para ser totalmente responsivo, mantendo usabilidade e estética em qualquer dispositivo.
 A responsividade foi implementada com Flexbox e Media Queries, permitindo que elementos como o vídeo principal, barra lateral e botões se reorganizem automaticamente para oferecer a melhor experiência possível ao usuário.
+
+# Visualização do projeto
+
+Link para visualização: 
+https://lucascholzeh.github.io/YouTube-page/
 
 # 🛠 Tecnologias Utilizadas
 
